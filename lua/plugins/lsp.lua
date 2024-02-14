@@ -6,6 +6,7 @@ return {
             "luacheck",
             "shfmt",
             "shellcheck",
+            "rust_analyzer",
         })
     end,
 }
